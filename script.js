@@ -1,8 +1,8 @@
 // ===== PAROL TIZIMI =====
 const AUTH_KEY = 'test_tsrbiyashodlikauthenticated';
 const VALID_CREDENTIALS = {
-    username: 'Tarbiya2025',
-    password: 'test1221'
+    username: 'Tarbiya2026',
+    password: 'Odina1221'
 };
 
 // ===== TEST SAVOLLARI (400 TA) =====
