@@ -2,7 +2,7 @@
 const AUTH_KEY = 'test_tsrbiyashodlikauthenticated';
 const VALID_CREDENTIALS = {
     username: 'Tarbiya2025',
-    password: 'Odina12221'
+    password: 'Odina112211'
 };
 
 // ===== TEST SAVOLLARI (400 TA) =====
